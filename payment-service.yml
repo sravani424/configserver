@@ -1,9 +1,9 @@
 server:
-  port: 9192
+  port: 9191
 spring:
   h2:
     console:
-      enabled: false
+      enabled: true
 
   application:
     name: PAYMENT-SERVICE      
