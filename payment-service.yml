@@ -3,7 +3,7 @@ server:
 spring:
   h2:
     console:
-      enabled: true
+      enabled: false
 
   application:
     name: PAYMENT-SERVICE      
